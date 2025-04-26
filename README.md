@@ -22,7 +22,7 @@ I help startups and SaaS companies secure their web apps through practical, ligh
 
 I'm a freelance pentester and bug bounty hunter. I focus on web apps — especially login flows, APIs, and business logic bugs.
 
-I'm active on private and public bug bounty programs and have reported issues on platforms like:
+I'm active on private and public bug bounty programs and have reported issues on platforms. Here are my profiles:
 
 - 🛡️ [Bugcrowd](https://bugcrowd.com/tkvy)
 - 👁️ [HackenProof](https://hackenproof.com/hackers/tkvy)
