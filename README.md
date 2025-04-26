@@ -14,6 +14,17 @@ I help startups and SaaS companies secure their web apps through practical, ligh
 - **Light Security Assessment** – $500–$800
 - **In-depth Manual Audit (No Automation Noise)** – $1,000+
 
+Detailed breakdown of the tiers can be found [here](https://github.com/tkvyy/tkvyy1/blob/main/service-tiers.md).
+
+### 🌟 Why Choose Me?
+
+- 🎯 **Focused Testing**: I don't rely only on automated tools — I manually test and validate vulnerabilities.
+- 📚 **Clear Reports**: You get easy-to-understand reports with real examples and recommendations.
+- 🤝 **Post-Delivery Support**: I’m available to explain anything after the delivery (for free during the support period).
+- 🛡️ **Ethical and Confidential**: Your security and privacy are always my top priorities.
+
+
+
 > Get in touch: tkkagotho1@gmail.com
 
 ---
