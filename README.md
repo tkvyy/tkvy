@@ -25,7 +25,7 @@ Detailed breakdown of the tiers can be found [here](https://github.com/tkvyy/tkv
 
 
 
-> Get in touch: tkkagotho1@gmail.com
+> Get in touch: tkkagotho1@gmail.com | [LinkedIn](https://www.linkedin.com/in/tevinkagotho/)
 
 ---
 
