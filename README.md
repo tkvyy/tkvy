@@ -51,11 +51,11 @@ https://pentesterlab.com/profile/tkvy
 
 ## 📫 Contact & Links
 
-- 🌍 [LinkedIn](https://www.linkedin.com/in/tkvyy)
+- 🌍 [LinkedIn](https://www.linkedin.com/in/tevinkagotho)
 - 📧 Email: tkkagotho1@gmail.com
 
 ### 🐞 Bug Bounty Profiles
-- [Bugcrowd](https://www.linkedin.com/in/tevinkagotho)
+- [Bugcrowd](https://bugcrowd.com/tkvy)
 - [HackenProof](https://hackenproof.com/hackers/tkvy)
 
 
